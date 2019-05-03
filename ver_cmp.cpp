@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <rpm/rpmlib.h>
-#include <mysql/mysql.h>
+#include <mariadb/mysql.h>
 #include <apt-pkg/init.h>
 #include <apt-pkg/version.h>
 

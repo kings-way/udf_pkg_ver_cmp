@@ -10,7 +10,7 @@ This is a MySQL UDF written in C/C++ to compare package versions, supporting bot
 
 * Some libs
 
-		apt install libmariadbclient-dev librpm-dev libapt-pkg-dev
+		apt install libmariadb-dev librpm-dev libapt-pkg-dev
 
 * Compile
 
