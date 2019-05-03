@@ -14,7 +14,6 @@ extern "C" {
 
 int len1;
 int len2;
-char flag[5] = {0};
 char *version1;
 char *version2;
 extern pkgSystem *_system;
